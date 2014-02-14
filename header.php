@@ -2,7 +2,7 @@
 	<div class="header-inner">
 		<div id="logo left">
 			<a href="index.php">
-				<img src="http://placehold.it/200x100" alt="logo">
+				<img src="http://placehold.it/200x100&text=Logo" alt="logo">
 			</a>
 		</div>
 		<!-- uncomment below for use of an off canvas navigation -->
