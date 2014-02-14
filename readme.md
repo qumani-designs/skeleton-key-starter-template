@@ -24,9 +24,13 @@ Sections:
   * Closing Scripts
   * Footer  
 
+Live Preview
+------------
+http://www.qumani.com/templates/free/skeleton-key/index.php
 
 Project Status:
 -----------
 
-WIP ( 02/2014 )
+WIP
 -----------
+2014-02-14 - Added base files to repositories.
