@@ -1,6 +1,6 @@
 Skeleton Key 
 =======
-&copy; 2014 Justin Balesteri dba.[Qumani Designs](http://qumani.com).
+Copyright (c) 2014 Justin Balesteri dba.[Qumani Designs](http://qumani.com).
 
 
 Organization is a key component to a successful project. This a quick starter template that aims to elimate a few redundant tasks associated with beginning a scalable website. 
