@@ -19,10 +19,10 @@
 				<section>
 					<ul class="inline">
 						<li>
-							<a href="sidebar.php">[ no sidebar ]</a>
+							<a href="index.php">[ no sidebar ]</a>
 						</li>
 						<li>
-							<a href="contact.php">[ with sidebar ]</a>
+							<a href="withSidebar.php">[ with sidebar ]</a>
 						</li>
 					</ul>
 				</section>
