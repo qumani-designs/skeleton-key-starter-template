@@ -14,9 +14,9 @@ Organize the file structure for an what is essentially an HTML site utilizing PH
 Sections:
 
   * Head
-   - meta tags
-   - javascript sources
-   - css
+      - meta tags
+	  - javascript sources
+      - css
   * Header
   * Banner
   * Navigation
