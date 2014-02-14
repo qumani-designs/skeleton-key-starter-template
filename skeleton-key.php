@@ -59,6 +59,9 @@
 			<?php
 			include 'footer.php';
 			?>
+			<div class="copyright">
+				<p>&copy; 2014 <a href="http://qumani.com">Qumani Designs</a></p>
+			</div>
 		</div><!-- footer-outer end -->
 
 		<!-- <script src="js/jquery.js"></script> -->
